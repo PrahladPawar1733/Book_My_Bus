@@ -12,5 +12,6 @@ const busSchema = new mongoose.Schema({
     estimateTime:{ type: Number, required: true },
 })
 
+
 const Bus = mongoose.model("bus", busSchema);
 module.exports = Bus;
