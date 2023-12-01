@@ -1,0 +1,17 @@
+.nav {
+
+  display: flex;
+  background-color: #ba4242;
+  height: 10px;
+  color: #fff;
+  justify-content: space-between;
+  text-align: center;
+  font-size: 1.7rem;
+  padding: 2%;
+  text-decoration: none;
+
+}
+
+.logo {
+  color: #fff;
+}
